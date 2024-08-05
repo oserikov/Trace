@@ -169,3 +169,8 @@ OAI_CONFIG_LIST
 
 # jupyter book API output
 docs/api/*
+*.csv
+bbh*csvs.zip
+bbh*csvs.tar.gz
+*nohup*
+dcgm*
